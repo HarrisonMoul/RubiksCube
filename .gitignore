@@ -59,10 +59,7 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-<<<<<<< HEAD
-=======
 *.unitypackage.meta
->>>>>>> master
 *.app
 
 # Crashlytics generated file
@@ -73,8 +70,5 @@ crashlytics-build.properties
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
-<<<<<<< HEAD
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-=======
-/[Aa]ssets/[Ss]treamingAssets/aa/*
->>>>>>> master
+
