@@ -10,6 +10,8 @@ public class CubeRotator : MonoBehaviour
     private bool isRotating = false;
     private Transform facePivot;
 
+    private float scaleFactor;
+
     private Vector3 downPivot = new Vector3(-1, 0, 0);
     private Vector3 upPivot = new Vector3(-1, 2, 0);
     private Vector3 leftPivot = new Vector3(-1, 1, -1);
@@ -21,6 +23,8 @@ public class CubeRotator : MonoBehaviour
     void Start()
     {
         facePivot = new GameObject("FacePivot").transform;
+        facePivot.localScale = cube.localScale;
+        scaleFactor = facePivot.localScale.x;
     }
 
     public void RotateFace(Vector3 faceNormal, float angle, char Side)
@@ -30,7 +34,6 @@ public class CubeRotator : MonoBehaviour
             return;
         }
 
-
         int counter = 0;
         isRotating = true;
 
@@ -38,13 +41,30 @@ public class CubeRotator : MonoBehaviour
         switch (Side)
         {
             case 'U':
-                facePivot.position = upPivot;
+                facePivot.position = upPivot * scaleFactor;
                 rotVector = Vector3.up;
                 break;
+            case 'D':
+                facePivot.position = downPivot * scaleFactor;
+                rotVector = Vector3.down;
+                break;
             case 'R':
-                facePivot.position = rightPivot;
+                facePivot.position = rightPivot * scaleFactor;
+                rotVector = Vector3.forward;
+                break;
+            case 'L':
+                facePivot.position = leftPivot * scaleFactor;
                 rotVector = Vector3.back;
                 break;
+            case 'F':
+                facePivot.position = frontPivot * scaleFactor;
+                rotVector = Vector3.right;
+                break;
+            case 'B':
+                facePivot.position = backPivot * scaleFactor;
+                rotVector = Vector3.left;
+                break;
+
         }
 
         for (int i = cube.childCount - 1; i >= 0; i--)
@@ -58,17 +78,16 @@ public class CubeRotator : MonoBehaviour
             counter++;  
             Transform cubie = cube.GetChild(i);
 
-            Vector3 currentPos = cubie.localPosition;
-            Vector3 roundedPos = new Vector3(
-                Mathf.Round(currentPos.x),
-                Mathf.Round(currentPos.y),
-                Mathf.Round(currentPos.z));
-            cubie.localPosition = roundedPos;
-
             switch (Side)
             {
                 case 'U':
-                    if (cubie.localPosition.y > 1)
+                    if (cubie.localPosition.y > 1.9)
+                    {
+                        cubie.SetParent(facePivot);
+                    }
+                    break;
+                case 'D':
+                    if (cubie.localPosition.y > -0.1 && cubie.localPosition.y < 0.1)
                     {
                         cubie.SetParent(facePivot);
                     }
@@ -79,6 +98,25 @@ public class CubeRotator : MonoBehaviour
                         cubie.SetParent(facePivot);
                     }
                     break;
+                case 'L':
+                    if (cubie.localPosition.z > -1.1 && cubie.localPosition.z < -0.9)
+                    {
+                        cubie.SetParent(facePivot);
+                    }
+                    break;
+                case 'F':
+                    if (cubie.localPosition.x > -0.1 && cubie.localPosition.x < 0.1)
+                    {
+                        cubie.SetParent(facePivot);
+                    }
+                    break;
+                case 'B':
+                    if (cubie.localPosition.x > -2.1 && cubie.localPosition.x < -1.9)
+                    {
+                        cubie.SetParent(facePivot);
+                    }
+                    break;
+
             }
             
 
@@ -118,16 +156,6 @@ public class CubeRotator : MonoBehaviour
         for (int i = pivot.childCount - 1; i >= 0; i--)
         {
             Transform cubie = pivot.GetChild(i);
-            
-            Vector3 currentPos = cubie.localPosition;
-            Vector3 roundedPos = new Vector3(
-                Mathf.Round(currentPos.x),
-                Mathf.Round(currentPos.y),
-                Mathf.Round(currentPos.z));
-            cubie.localPosition = roundedPos;
-
-
-
             cubie.SetParent(cube);
         }
 

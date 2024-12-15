@@ -27,11 +27,34 @@ public class TestRotations : MonoBehaviour
 
     public void RotateUpFace()
     {
+        Debug.Log(upPivot);
         cubeRotator.RotateFace(upPivot, 90f, 'U');
+    }
+
+    public void RotateDownFace()
+    {
+        cubeRotator.RotateFace(downPivot, 90f, 'D');
     }
 
     public void RotateRightFace()
     {
         cubeRotator.RotateFace(rightPivot, 90f, 'R');
     }
+
+    public void RotateLeftFace()
+    {
+        cubeRotator.RotateFace(leftPivot, 90f, 'L');
+    }
+
+    public void RotateFrontFace()
+    {
+        cubeRotator.RotateFace(frontPivot, 90f, 'F');
+    }
+
+    public void RotateBackFace()
+    {
+        cubeRotator.RotateFace(backPivot, 90f, 'B');
+    }
+
+    
 }
