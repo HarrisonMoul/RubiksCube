@@ -122,19 +122,12 @@ public class CubeRotator : MonoBehaviour
 
         }
 
-        Debug.Log(counter);
+        //Debug.Log(counter);
 
         //facePivot.position = cube.position;
         //facePivot.position = upPivot;
         StartCoroutine(RotateOverTime(facePivot, angle, rotVector));
 
-    }
-
-    private bool IsOnFace(Vector3 localPos, Vector3 faceNormal)
-    {
-        const float threshold = 0.2f;
-        Debug.Log(Vector3.Dot(localPos.normalized, faceNormal.normalized));
-        return Mathf.Abs(Vector3.Dot(localPos.normalized, faceNormal.normalized)) >= 1 - threshold;
     }
 
     private IEnumerator RotateOverTime(Transform pivot, float angle, Vector3 rotVector)
@@ -152,7 +145,7 @@ public class CubeRotator : MonoBehaviour
 
         //pivot.eulerAngles = curr_angles;
 
-        Debug.Log(pivot.childCount);
+        //Debug.Log(pivot.childCount);
         for (int i = pivot.childCount - 1; i >= 0; i--)
         {
             Transform cubie = pivot.GetChild(i);
