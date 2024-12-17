@@ -8,6 +8,10 @@ public class CubeDragRotation : MonoBehaviour
 
     private Vector3 dragStart;
     private Vector3 dragEnd;
+
+    private Vector3 preMouse;
+    private Vector3 mouseDelta;
+
     private Transform selectedFace;
     private bool isDragging = false;
 
@@ -19,6 +23,8 @@ public class CubeDragRotation : MonoBehaviour
     private Vector3 backPivot = new Vector3(-2, 1, 0);
     private Vector3[] pivots = new Vector3[6];
 
+    public float rotationSpeed = 500f;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -52,7 +58,7 @@ public class CubeDragRotation : MonoBehaviour
                     dragStart = Input.mousePosition;
                     isDragging = true;
                 }
-            }
+            }            
         }
 
         if (Input.GetMouseButtonUp(0) && isDragging)
@@ -65,8 +71,6 @@ public class CubeDragRotation : MonoBehaviour
                 HandleDrag();
                 selectedFace = null;
             }
-
-
         }
     }
 
@@ -80,16 +84,34 @@ public class CubeDragRotation : MonoBehaviour
             return;
         }
 
+        char center = findClosestCenter(selectedFace.localPosition);
         if (Mathf.Abs(dragDirection.x) > Mathf.Abs(dragDirection.y))
         {
             Debug.Log("Selected Cubie: " + selectedFace.localPosition);
+
             if (dragDirection.x > 0)
             {
-                cubeRotator.RotateFace(selectedFace.localPosition, -90f, findClosestCenter(selectedFace.localPosition));
+                if (center == 'U' || center == 'F' || center == 'R')
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, -90f, center);
+                }
+                else
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, 90f, center);
+                }
+                
             }
             else
             {
-                cubeRotator.RotateFace(selectedFace.localPosition, 90f, findClosestCenter(selectedFace.localPosition));
+                if (center == 'U' || center == 'F' || center == 'R')
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, 90f, center);
+                }
+                else
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, -90f, center);
+                }
+                
             }
            
         }
@@ -99,11 +121,26 @@ public class CubeDragRotation : MonoBehaviour
 
             if (dragDirection.y > 0)
             {
-                cubeRotator.RotateFace(selectedFace.localPosition, 90f, findClosestCenter(selectedFace.localPosition));
+                if (center == 'U' || center == 'F' || center == 'R')
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, 90f, center);
+                }
+                else
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, -90f, center);
+                }
             }
             else
             {
-                cubeRotator.RotateFace(selectedFace.localPosition, -90f, findClosestCenter(selectedFace.localPosition));
+                if (center == 'U' || center == 'F' || center == 'R')
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, -90f, center);
+                }
+                else
+                {
+                    cubeRotator.RotateFace(selectedFace.localPosition, 90f, center);
+                }
+            
             }
         }
     }
