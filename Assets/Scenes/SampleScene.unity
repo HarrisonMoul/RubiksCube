@@ -134,21 +134,41 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -194,6 +214,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -216,21 +244,41 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -272,9 +320,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -298,17 +354,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -350,9 +426,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -372,17 +456,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -428,6 +532,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -438,6 +550,47 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
   m_PrefabInstance: {fileID: 328868830}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &339828178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 339828179}
+  m_Layer: 5
+  m_Name: Buttons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &339828179
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339828178}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1194309221}
+  - {fileID: 566853145}
+  - {fileID: 1317888220}
+  - {fileID: 1541513157}
+  - {fileID: 733632679}
+  - {fileID: 1889354026}
+  m_Father: {fileID: 1717574792}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -166, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &388378807
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -450,17 +603,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -501,6 +674,14 @@ PrefabInstance:
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -658,17 +839,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -710,6 +911,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -746,13 +955,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 566853144}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 830122244}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -999,13 +1208,33 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1047,9 +1276,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1315,13 +1552,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 733632678}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 586174044}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1568,17 +1805,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1624,6 +1881,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1646,17 +1911,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1702,9 +1987,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1858,21 +2151,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1918,9 +2231,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2036,17 +2357,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2088,9 +2429,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2262,13 +2611,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1194309220}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 724925363}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2381,17 +2730,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2437,9 +2806,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2461,6 +2838,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1270775262}
   - component: {fileID: 1270775263}
+  - component: {fileID: 1270775264}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -2478,7 +2856,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 786018532}
@@ -2522,7 +2900,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cube: {fileID: 1270775262}
-  rotationSpeed: 100
+  rotationSpeed: 300
+--- !u!114 &1270775264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270775261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c69fa7c21cadc4f9635f634d9a17dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cubeRotator: {fileID: 1270775263}
+  rotationSpeed: 5
 --- !u!1001 &1276013059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2531,17 +2923,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2587,9 +2999,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2609,13 +3029,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2661,9 +3101,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2701,13 +3149,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1317888219}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 399835338}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2902,13 +3350,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1541513156}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 750246132}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3021,17 +3469,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3073,9 +3541,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3140,13 +3616,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3192,9 +3688,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3218,21 +3722,41 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3274,6 +3798,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3296,13 +3828,33 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3348,9 +3900,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3374,13 +3934,33 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3426,9 +4006,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3534,12 +4122,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1194309221}
-  - {fileID: 566853145}
-  - {fileID: 1317888220}
-  - {fileID: 1541513157}
-  - {fileID: 733632679}
-  - {fileID: 1889354026}
+  - {fileID: 339828179}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -3559,17 +4142,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3615,9 +4218,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3637,21 +4248,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3697,6 +4328,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3715,17 +4354,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3771,9 +4430,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3793,17 +4460,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3849,9 +4536,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3889,13 +4584,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1889354025}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1117765841}
-  m_Father: {fileID: 1717574792}
+  m_Father: {fileID: 339828179}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4008,17 +4703,37 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4064,6 +4779,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4086,13 +4809,33 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4134,9 +4877,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4156,17 +4907,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1270775262}
     m_Modifications:
+    - target: {fileID: 693886826194786726, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
     - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935181690651526459, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806553334343877974, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_Name
       value: Cubie (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 4239115954230490305, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: Cubie
+      objectReference: {fileID: 0}
     - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4254356043431887668, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     - target: {fileID: 5534014215600763071, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4211,6 +4982,14 @@ PrefabInstance:
     - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7471823777830408815, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130033453842021501, guid: df4739725b510b848abeeb433e40bf43, type: 3}
+      propertyPath: m_TagString
+      value: CubieSide
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

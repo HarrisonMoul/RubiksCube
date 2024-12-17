@@ -27,7 +27,6 @@ public class TestRotations : MonoBehaviour
 
     public void RotateUpFace()
     {
-        Debug.Log(upPivot);
         cubeRotator.RotateFace(upPivot, 90f, 'U');
     }
 
