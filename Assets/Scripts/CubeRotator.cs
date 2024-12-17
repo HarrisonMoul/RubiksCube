@@ -7,7 +7,7 @@ public class CubeRotator : MonoBehaviour
     public Transform cube;
     public float rotationSpeed;
 
-    private bool isRotating = false;
+    public static bool isRotating = false;
     private Transform facePivot;
 
     private float scaleFactor;
@@ -132,8 +132,6 @@ public class CubeRotator : MonoBehaviour
 
     private IEnumerator RotateOverTime(Transform pivot, float angle, Vector3 rotVector)
     {
-        Vector3 curr_angles = pivot.eulerAngles;
-        curr_angles.y += angle;
         float rotated = 0;
         while (rotated < Mathf.Abs(angle))
         {
